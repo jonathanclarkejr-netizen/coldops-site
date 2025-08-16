@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: 'ColdOps.ai',
   description: 'Outbound Leads, Delivered with Precision.',
